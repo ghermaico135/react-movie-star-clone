@@ -1,5 +1,6 @@
 /** @format */
 
+/* eslint-disable */
 import React from "react";
 import "./Footer.scss";
 const Footer = () => {

@@ -1,6 +1,8 @@
 /** @format */
+/* eslint-disable */
 
 import React from "react";
+import "./MovieCard.scss";
 
 const MovieCard = ({ data }) => {
 	// const { data } = props;
@@ -13,7 +15,7 @@ const MovieCard = ({ data }) => {
 				</div>
 				<div className="card-bottom">
 					<div className="card-info">
-						<h1>{data.Title}</h1>
+						<h4>{data.Title}</h4>
 						<p>{data.Year}</p>
 					</div>
 				</div>

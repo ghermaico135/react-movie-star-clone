@@ -1,5 +1,5 @@
 /** @format */
-
+/* eslint-disable */
 import React, { useEffect } from "react";
 import MovieList from "../MovieList/MovieList";
 import movieApi from "../../common/ApiKeys/MovieApi";

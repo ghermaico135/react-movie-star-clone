@@ -1,5 +1,5 @@
 /** @format */
-
+/* eslint-disable */
 import React from "react";
 
 const PageNotFound = () => {
