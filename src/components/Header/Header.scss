@@ -1,6 +1,6 @@
 @import "../../common/color.scss";
 
-.header{
+.header {
   background-color: $secondary-color;
   height: 72px;
   padding: 0 40px;
@@ -9,13 +9,14 @@
   align-items: center;
 }
 
-.log{
-  color:$font-primary;
+.log {
+  color: $font-primary;
   font-size: 20px;
   font-weight: 600;
 }
 
-.user-image,.user-image img{
+.user-image,
+.user-image img {
   width: 38px;
   height: 38px;
 }
