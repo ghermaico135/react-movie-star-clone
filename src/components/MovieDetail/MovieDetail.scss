@@ -1,0 +1,9 @@
+@import "../../common/color.scss";
+
+.movie-section{
+  display: flex;
+  justify-content: space-evenly;
+  color: $font-primary;
+  padding: 40px 0;
+  font-weight: 400;
+}

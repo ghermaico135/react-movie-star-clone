@@ -3,6 +3,12 @@
 .card-item {
   background-color: $secondary-color;
   cursor: pointer;
+  transition: all 0.3;
+
+  &:hover{
+    transform: scale(1.1);
+    transition: all 0.3;
+  }
 }
 
 .card-top {
