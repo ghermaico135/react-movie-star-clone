@@ -6,7 +6,6 @@ import "./MovieCard.scss";
 import { Link } from "react-router-dom";
 
 const MovieCard = ({ data }) => {
-	console.log(data);
 	return (
 		<div className="card-item">
 			<Link to={`/movie/${data.imdbID}`}>
