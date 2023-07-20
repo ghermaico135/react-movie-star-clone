@@ -21,27 +21,27 @@
   height: 38px;
 }
 
-.search-bar{
+.search-bar {
   width: 50%;
   display: flex;
   justify-content: center;
 
-  form{
+  form {
     width: 70%;
     height: 38px;
     padding: 0 8px;
     display: flex;
     justify-content: center;
 
-    button{
+    button {
       height: 38px;
       font-size: 20px;
-      padding:0 8px;
+      padding: 0 8px;
       cursor: pointer;
     }
   }
 
-  input{
+  input {
     outline: none;
     font-size: 18px;
     width: 100%;
@@ -49,5 +49,4 @@
     cursor: pointer;
     height: 38px;
   }
-
 }
